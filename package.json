@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "dev": "tsx src/sum.ts"
+    "dev": "tsx src/search-cep.ts"
   },
   "keywords": [],
   "author": "",
